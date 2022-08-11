@@ -1,4 +1,0 @@
-pandas
-hvplot
-panel
-holoviews
