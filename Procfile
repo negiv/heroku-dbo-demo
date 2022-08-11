@@ -1,1 +1,0 @@
-web: panel serve --address="0.0.0.0" --port=$PORT DBO_test.ipynb --allow-websocket-origin=dbo-med-demo.herokuapp.com
