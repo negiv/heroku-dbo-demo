@@ -1,5 +1,6 @@
 jupyterlab
 pandas
+matplotlib
 hvplot
 panel
 holoviews
